@@ -8,21 +8,21 @@ Hallooo ich bin da:)
 </h3>
 
 <h2> Über mich </h2>
-Ich bin immer aktiv und eifrig, neue Fachkenntnisse zu erlernen. 
+Ich bin immer aktiv und eifrig,neue Fachkenntnisse zu erlernen. 
 Ich glaube, dass ich auf diese Weise immer bessere Ergebnisse erzielen kann.
 
 Außerdem ist Kommunikation der wichtigste Schlüssel zum Fortschritt im Softwarebereich, und ich glaube, dass der Aufbau starker Beziehungen zu Menschen die besten Ergebnisse liefert.
 
 
 
- vertiefung
+ Vertiefung
  #################################################
  <h1>GIT-GITHUB</h1>
  <h1>JAKARTA EE -SPRING-SPRING BOOT-POSTGRESQL</h1>
  <h1>HTML5-CSS-BOOTSTRAP</h1>
  <h1>ECLIPSE IDE</h1>
  
- projekt managament
+ Projekt Managament
  #############################################
  <h1>Agile-Scrum</h1>
  komponent</h1>
