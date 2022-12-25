@@ -6,12 +6,14 @@ Hallooo ich bin da:)
 <h3 align="center">
 👋 wer_bin_ich? 👋
 </h3>
-
+Übung macht den Meister
 <h2> Über mich </h2>
 Ich bin immer aktiv und eifrig,neue Fachkenntnisse zu erlernen. 
 Ich glaube, dass ich auf diese Weise immer bessere Ergebnisse erzielen kann.
 
 Außerdem ist Kommunikation der wichtigste Schlüssel zum Fortschritt im Softwarebereich, und ich glaube, dass der Aufbau starker Beziehungen zu Menschen die besten Ergebnisse liefert.
+
+
 
 
 
