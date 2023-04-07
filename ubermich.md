@@ -29,6 +29,8 @@ Außerdem ist Kommunikation der wichtigste Schlüssel zum Fortschritt im Softwar
  <h1>Agile-Scrum</h1>
  komponent</h1>
  <h1>Jira-Confluence</h1>
+  <h1>Docker</h1>
+   <h1>SELENIUM UNTERWEGS................</h1>
  
  
  
