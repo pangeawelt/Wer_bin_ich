@@ -30,7 +30,7 @@ Außerdem ist Kommunikation der wichtigste Schlüssel zum Fortschritt im Softwar
  komponent</h1>
  <h1>Jira-Confluence</h1>
   <h1>Docker</h1>
-   <h1>SELENIUM UNTERWEGS................</h1>
+   <h1>SELENIUM UND JUNit................</h1>
  
  
  
